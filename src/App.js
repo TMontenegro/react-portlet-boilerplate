@@ -1,7 +1,11 @@
+import React from 'react'
+
 function App() {
   return (
-    <p>App works!</p>
-  );
+    <div>
+      <p>App works!</p>
+    </div>
+  )
 }
 
-export default App;
+export default App
